@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="imagens">
+    <file>imagens/adicionar.png</file>
+    <file>imagens/backup.png</file>
+    <file>imagens/categorias.png</file>
+    <file>imagens/componentes.png</file>
+    <file>imagens/computador.png</file>
+    <file>imagens/computador-portatil.png</file>
+    <file>imagens/home.png</file>
+    <file>imagens/impressoras.png</file>
+    <file>imagens/logo_inventario.png</file>
+    <file>imagens/mapa.png</file>
+    <file>imagens/movimentacao.png</file>
+    <file>imagens/relatorio.png</file>
+    <file>imagens/saida.png</file>
+  </qresource>
+</RCC>
